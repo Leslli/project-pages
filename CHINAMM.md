@@ -33,11 +33,10 @@
 
 ## 竞赛组委会
 <img src="https://github.com/Leslli/chinaMM2019/blob/master/image/fanxin.png" width="90" height="106"/>**樊&nbsp;&nbsp;鑫**教授  
-大连理工大学 教授  
+大连理工大学 
 <img src="https://github.com/Leslli/chinaMM2019/blob/master/image/liurisheng.jpg" width="90" height="106"/>**刘日升**副教授  
-大连理工大学 &nbsp; &nbsp; 副教授  
+大连理工大学 &nbsp; &nbsp;  
 <img src="https://github.com/Leslli/chinaMM2019/blob/master/image/guoxiaojie.jpg" width="90" height="106"/>**郭晓杰**副教授  
-天津大学 &nbsp;&nbsp;  副教授  
+天津大学 &nbsp;&nbsp;   
 <img src="https://github.com/Leslli/chinaMM2019/blob/master/image/renwenqi.png" width="90" height="106"/>**任文琦**助理研究员  
-中科院信息工程研究所 &nbsp; &nbsp; 助理研究员
-Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
+中科院信息工程研究所 &nbsp; &nbsp; 
